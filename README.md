@@ -3,7 +3,7 @@
 > - Every action is reported to the terminal, for example:
 >   - Bot welcomes someone on a server => prints a message saying "{user} has joined the server {server name}!" etc.
 >   - Bot disconnects => prints a message saying "Bot is disconnected."
->   - Bot reconnects or first connects to Discord servers => prints a message saying "Bot is reconnected." or "Bot is connected to Discord servers."
+>   - When bot reconnects or first connects to Discord servers => prints a message saying "Bot is connected / reconnected to Discord servers."
 >
 > - Welcomes people upon joining the server
 >
