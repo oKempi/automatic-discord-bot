@@ -7,5 +7,8 @@ Functions:
 * Welcomes people upon joining the server
 * Reports when the bot disconects and then when reconects or first connects to Discord servers
 * The bot has several custom features such as: 
-** test
-  
+<li>
+  jedna
+  dva 
+  tři
+</li>
