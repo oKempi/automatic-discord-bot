@@ -8,7 +8,7 @@
 > - Welcomes people upon joining the server
 >
 > - The bot has several custom features such as:
->   1. `.uwu`: Sends a random photo of an anime girl (Skittle chan) found on the internet.
+>   1. `.uwu`: Sends a random photo of an anime girl found on the internet.
 >   2. `.jap`: Sends a random Japanese word with the following information:
 >      - How it is written in Japanese
 >      - How it is read
