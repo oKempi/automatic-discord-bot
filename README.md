@@ -12,4 +12,4 @@
 >   2. `.jap`: Sends a random Japanese word with the following information:
 >      - How it is written in Japanese
 >      - How it is read
->      - Meaning
+>      - It's meaning
