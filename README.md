@@ -1,11 +1,15 @@
-# automatic-discord-bot
-Automatic Discord bot for a Discord server ANKE
-<br>
 > ## Functions:
 >
-> - Every action is reported to the terminal for example: Bot welcomes someone on a server => prints a message saying "{user} has joined the server {server name}!" etc.
+> - Every action is reported to the terminal, for example:
+>   - Bot welcomes someone on a server => prints a message saying "{user} has joined the server {server name}!" etc.
+>   - Bot disconnects => prints a message saying "Bot is disconnected."
+>   - Bot reconnects or first connects to Discord servers => prints a message saying "Bot is reconnected." or "Bot is connected to Discord servers."
+>
 > - Welcomes people upon joining the server
-> - Reports when the bot disconects and then when reconects or first connects to Discord servers
-> - The bot has several custom features such as: 
-   1) ".uwu" => sends a random photo of a anime girl (Skittle chan) I found on the internet
-   2) ".jap" => sends a random japanese word with following iformation (how is it written in japanese, how is it read and meaning)
+>
+> - The bot has several custom features such as:
+>   1. `.uwu`: Sends a random photo of an anime girl (Skittle chan) found on the internet.
+>   2. `.jap`: Sends a random Japanese word with the following information:
+>      - How it is written in Japanese
+>      - How it is read
+>      - Meaning
